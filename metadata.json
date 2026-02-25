@@ -1,0 +1,5 @@
+{
+  "name": "Smart Thumbnail AI Editor",
+  "description": "An AI-powered YouTube thumbnail editor that detects and removes elements like players, text, and mobs with natural language commands.",
+  "requestFramePermissions": []
+}
